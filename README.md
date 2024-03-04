@@ -1,17 +1,20 @@
 # Quiz-backend
 This repository contains the backend code for a quiz application, providing the core functionality to manage quizzes, user authentication, and scoring.
 
-**Features**\n
+**Features**
+
 User Authentication: Users can sign up, log in, and securely access the quiz functionalities.
 Quiz Management: Administrators can create, modify, and retrieve quizzes, including adding or removing questions.
 Quiz Taking: Users can take quizzes, answer questions, and receive instant feedback on their performance.
 Score Tracking: The backend tracks user scores for completed quizzes, providing insights into past quiz attempts and rankings.
 
 **Technologies Used**
+
 Node.js: Backend server environment.
 MySQL: SQL database for storing user profiles, quiz questions, answers, and scores.
 
 **API Endpoints**
+
 POST /api/auth/signup: Register a new user.
 POST /api/auth/login: Log in an existing user.
 GET /api/quizzes: Get a list of available quizzes.

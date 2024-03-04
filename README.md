@@ -1,7 +1,7 @@
 # Quiz-backend
 This repository contains the backend code for a quiz application, providing the core functionality to manage quizzes, user authentication, and scoring.
 
-**Features**
+**Features**\n
 User Authentication: Users can sign up, log in, and securely access the quiz functionalities.
 Quiz Management: Administrators can create, modify, and retrieve quizzes, including adding or removing questions.
 Quiz Taking: Users can take quizzes, answer questions, and receive instant feedback on their performance.

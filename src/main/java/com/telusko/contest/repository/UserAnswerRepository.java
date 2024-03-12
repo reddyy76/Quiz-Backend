@@ -5,6 +5,8 @@ import org.springframework.stereotype.Repository;
 
 import com.telusko.contest.entity.UserAnswers;
 
+//UserRepository
+
 @Repository
 public interface UserAnswerRepository extends JpaRepository<UserAnswers, Long> {
     // Custom methods for user answer-related operations

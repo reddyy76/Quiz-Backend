@@ -11,6 +11,8 @@ import com.telusko.contest.repository.UserRepository;
 
 import jakarta.persistence.EntityNotFoundException;
 
+//User Service
+
 @Service
 public class UserService {
     private final UserRepository userRepository;
